@@ -2,7 +2,7 @@
   "$schema": "./profile.schema.json",
   "profile": {
     "name": "Your Name",
-    "username": "yourusername",
+    "username": "bigboyzo6",
     "headline": "AI Engineer & Product Builder",
     "affiliation": "Your University or Company",
     "location": "City, Country",
@@ -35,7 +35,7 @@
   "projects": [
     {
       "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "url": "https://github.com/bigboyzo6/project-one",
       "homepage": "",
       "focus": "Primary project focus",
       "summary": "A concise explanation of what the project does and why it matters.",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "url": "https://github.com/bigboyzo6/project-two",
       "homepage": "",
       "focus": "Secondary project focus",
       "summary": "A second project that supports the professional direction of this profile.",
@@ -60,8 +60,8 @@
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "bigboyzo6",
+      "url": "https://github.com/bigboyzo6",
       "logo": "github",
       "color": "0B1220"
     }
