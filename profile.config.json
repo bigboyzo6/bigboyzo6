@@ -1,61 +1,61 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
+    "name": "Reido",
     "username": "bigboyzo6",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "headline": "Web Developer & UI/UX Designer",
+    "affiliation": "Universitas Gunadarma",
+    "location": "Jakarta, Indonesia",
+    "status": "Belajar / Merancang / Membangun",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Saya merancang dan membangun platform web praktis yang berfokus pada antarmuka yang bersih dan pengalaman pengguna yang lancar.",
+      "Pekerjaan saya menggabungkan eksplorasi teknis dengan pola pikir seorang pembangun: memahami masalah pengguna, merancang solusi UI/UX, dan menulis kode untuk mewujudkannya."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Pengembangan Web",
+    "direction": "Sistem e-commerce & alat utilitas",
+    "themes": "Desain UI/UX / Front-end / Responsivitas",
+    "narrative": "Saya tertarik membangun aplikasi web interaktif, mulai dari toko online hingga alat pemrosesan file, dengan fokus pada kemudahan penggunaan dan fungsionalitas."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "UI/UX Design",
+      "description": "Merancang alur interaksi, tata letak, dan prototipe yang intuitif untuk platform digital."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Web Development",
+      "description": "Membangun aplikasi dan situs web yang responsif menggunakan teknologi web modern."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "E-commerce Systems",
+      "description": "Menciptakan sistem penelusuran produk dan alur transaksi toko online yang disederhanakan."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/bigboyzo6/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "name": "Brothersclothes",
+      "url": "https://github.com/bigboyzo6/brothers-clothes",
+      "homepage": "https://bigboyzo6.github.io/brothers-clothes/",
+      "focus": "Website and UI/UX",
+      "summary": "Situs web e-commerce pakaian full-stack yang dibangun untuk menyederhanakan penelusuran produk dan transaksi online.",
+      "heroLabel": "Toko Online"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/bigboyzo6/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "name": "ImageConverter",
+      "url": "https://github.com/bigboyzo6/ImageConverter",
+      "homepage": "https://bigboyzo6.github.io/ImageConverter/",
+      "focus": "Pemrosesan File & Utilitas",
+      "summary": "Alat konversi gambar yang efisien, saat ini sedang dikembangkan menjadi utilitas konversi multi-format yang komprehensif.",
+      "heroLabel": "Aplikasi Konverter"
     }
   ],
   "techStack": [
-    "TypeScript",
     "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "JavaScript",
+    "Node.js",
+    "HTML/CSS",
+    "Figma"
   ],
   "links": [
     {
@@ -73,5 +73,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Membangun sistem yang bermanfaat dan membagikan karya yang berhasil diciptakan."
 }
