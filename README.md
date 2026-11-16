@@ -50,7 +50,6 @@ Saya tertarik membangun aplikasi web interaktif, mulai dari toko online hingga a
 - Oct 25, 2026: pushed 1 commit to [bigboyzo6/WEB-QR-Cafe](https://github.com/bigboyzo6/WEB-QR-Cafe).
 - Oct 23, 2026: pushed 1 commit to [bigboyzo6/WEB-QR-Cafe](https://github.com/bigboyzo6/WEB-QR-Cafe).
 - Oct 22, 2026: pushed 1 commit to [bigboyzo6/WEB-QR-Cafe](https://github.com/bigboyzo6/WEB-QR-Cafe).
-- Oct 14, 2026: pushed 1 commit to [bigboyzo6/bigboyzo6](https://github.com/bigboyzo6/bigboyzo6).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
